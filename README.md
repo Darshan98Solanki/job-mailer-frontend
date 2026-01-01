@@ -4,13 +4,6 @@ A responsive **React + TypeScript + Vite** frontend for the Job Mailer applicati
 
 ---
 
-## 🚀 Live Preview
-
-Add a link to your deployed app here  
-➡️ https://your-frontend-url.com
-
----
-
 ## 📌 Features
 
 ✅ Modern frontend with **React** + **TypeScript**  
